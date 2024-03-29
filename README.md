@@ -39,6 +39,6 @@ If you have any questions or feedback about RetinaCare, reach me out on linkedIn
 ## Authors
 
 - [Abhijeet Wayal](https://www.linkedin.com/in/abhijeetw07)
-- Abhijeet Wayal
+- Kartik Kharat
   
 Please reach out to the authors for questions or contributions.
